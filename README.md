@@ -148,11 +148,11 @@ from myapp import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('areaofrectangle/',views.rectarea,name="areaofrectangle"),
+    path('areaofsquareprism/',views.rectarea,name="areaofsquareprism"),
 ]
 
 
-"""path('',views.rectarea,name="areaofrectangleroot")"""
+"""path('',views.rectarea,name="areaofsquareprismroot")"""
 
 
 
@@ -163,7 +163,8 @@ urlpatterns = [
 
 
 ## HOMEPAGE:
-![image](https://github.com/jeevansurya30/MathServer/assets/129417865/a5ee8794-9d63-4a45-b3fd-f43cb7355c13)
+![image](https://github.com/jeevansurya30/MathServer/assets/129417865/d3b79317-cdd3-411b-bfbe-a7082ff0145e)
+
 
 
 ## RESULT:
